@@ -6,7 +6,7 @@ apt-get install build-essential -y;
 add-apt-repository universe;
 apt-get update;
 apt-get install libboost-all-dev -y;
- 
+uname -a;
 # apt-get update;
 # apt-get install gcc-snapshot -y;
 # apt-get update;
